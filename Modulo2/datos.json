@@ -1,0 +1,34 @@
+[
+    {
+        "nombre": "Andrea",
+        "apellido": "Rodriguez",
+        "edad": 23,
+        "ciudad": "Bucaramanga",
+        "hobbies": [
+            "Jugar",
+            "Ejercitarme",
+            "Bailar"
+        ]
+    },
+    {
+        "nombre": "Juan",
+        "edad": 30,
+        "ciudad": "Bogota",
+        "hobbies": [
+            "futbol",
+            "programar",
+            "musica"
+        ]
+    },
+    {
+        "nombre": "Julieth",
+        "apellido": "Grandas",
+        "edad": 26,
+        "ciudad": "Medellin}",
+        "hobbies": [
+            "Kowsd",
+            " aohd",
+            " jaops"
+        ]
+    }
+]

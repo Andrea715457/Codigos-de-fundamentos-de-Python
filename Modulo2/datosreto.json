@@ -1,0 +1,12 @@
+[
+    {
+        "cedula": "1005345086",
+        "nombre": "Andrea",
+        "apellido": "Rodriguez",
+        "edad": 23,
+        "email": "andrea715457@gmail.com",
+        "telefono": "3044818596",
+        "direccion": "carrera 37 35 42",
+        "preferencial": "s"
+    }
+]
